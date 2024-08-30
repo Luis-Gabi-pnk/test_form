@@ -6,3 +6,91 @@
     color: red;
     font-family: sans-serif;
 }
+.nao{
+    color: orange;
+    background-color: crimson;
+    border-radius: 60%;
+}
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(147deg, rgba(2,0,36,1) 0%, rgba(0,255,218,1) 0%, rgba(71,200,194,1) 33%, rgba(0,1,255,1) 64%, rgba(0,1,168,1) 85%, rgba(0,1,134,1) 100%);
+}
+.cado{
+    color: white;
+    background-color: goldenrod;
+    border-radius: 50%;
+}
+.esco{
+    border-radius: 100%;
+    background-color: purple;
+}
+p{
+    color:darkgreen;
+    font-family: ;
+}
+.coloro{
+    background-color: rgb(60, 170, 133);
+    color: black;
+    border: none;
+    border-radius: 20%;
+}
+span{
+    color: darkgreen;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.titulo{
+    color: black;
+    font-size: 30px;
+    font-family: monospace;
+}
+.coloro1{
+    background-color: rgb(60, 170, 133);
+    color: black;
+    border: none;
+    border-radius: 20%;
+    font-size: 20px;
+}
+.coloro2{
+    background-color: rgb(60, 170, 133);
+    color: black;
+    border: none;
+    border-radius: 10%;
+    font-size: 20px;
+}
+.nome{
+margin-left: 35%;
+}
+.sobrenome{
+margin-left: 30%;
+}
+.senha{
+margin-left: 34%;
+}
+.email{
+margin-left: 33%;
+}
+.data{
+    margin-left: 26%;
+}
+.opc{
+    margin-left: 10%;
+}
+.magro{
+    margin-left: 35%;
+}
+.gordo{
+    margin-left: 32%;
+}
+.pau{
+    margin-left:28% ;
+}
+.ns{
+    margin-left: 45%;
+}
+.a{
+    color: brown;
+}
+.nome1{
+    margin-left: 40%;
+}
